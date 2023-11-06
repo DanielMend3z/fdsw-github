@@ -1,7 +1,11 @@
 body {
   font-family: "Raleway", sans-serif;
+  background-color:lightskyblue;
 }
-
+ 
+*.btn {
+  color:darkblue;
+}
 /* Hero Section */
 
 #Hero-Section {
@@ -9,6 +13,17 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+
+}
+h1 {
+  color:rgb(171, 231, 68);
+}
+p.my-5 {
+color:gold;
+}
+
+button.btn.btn-lg.btn-outline-info.text-light.me-4 {
+  color:darkblue;
 }
 
 /* Mis trabajos */
