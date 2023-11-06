@@ -31,7 +31,9 @@ color:rgb(15, 60, 238);
   background-size: cover;
   background-position: center;
 }
-
+.bg-info{
+  background-color: chocolate!important;
+}
 /* Contacto */
 
 #Contacto form label {
