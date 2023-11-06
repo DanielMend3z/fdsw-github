@@ -1,6 +1,5 @@
 body {
   font-family: "Raleway", sans-serif;
-  background-color:lightskyblue;
 }
  
 *.btn {
@@ -16,15 +15,12 @@ body {
 
 }
 h1 {
-  color:rgb(171, 231, 68);
+  color:rgb(241, 57, 16);
 }
 p.my-5 {
-color:gold;
+color:rgb(15, 60, 238);
 }
 
-button.btn.btn-lg.btn-outline-info.text-light.me-4 {
-  color:darkblue;
-}
 
 /* Mis trabajos */
 
